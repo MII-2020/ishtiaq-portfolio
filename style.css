@@ -1,0 +1,25 @@
+
+body {
+  font-family: sans-serif;
+  background: #f4f4f4;
+  color: #333;
+  padding: 2rem;
+}
+.container {
+  max-width: 600px;
+  margin: auto;
+  background: white;
+  padding: 2rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+.profile {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  display: block;
+  margin: auto;
+}
+h1, h2 {
+  text-align: center;
+}
